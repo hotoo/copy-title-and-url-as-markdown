@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "复制标题和 URL 的 Markdown 形式",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Copy the title and url of the page as Markdown style",
+    "message": "复制页面标题和 URL 的 Markdown 形式",
+    "description":"The description of the application, displayed in the web store."
+  }
+}
